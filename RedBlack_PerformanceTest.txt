@@ -1,0 +1,296 @@
+NOTE : Option 1 insertion is Manual insertion of elements
+---------------------------------------------------------
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+1
+
+What is the count of elements you want to add?
+5
+enter 1 value 
+5
+enter 2 value 
+3
+enter 3 value 
+7
+enter 4 value 
+2
+enter 5 value 
+9
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+6
+
+2 3 5 7 9 
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+7
+
+      9(Red)
+
+   7(Black)
+
+5(Black)
+
+   3(Black)
+
+      2(Red)
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+3
+
+Enter the element you want to remove
+9
+
+deletion completed in 0 milliseconds
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+7
+
+   7(Black)
+
+5(Black)
+
+   3(Black)
+
+      2(Red)
+	  
+	  
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+4
+
+Deleting all the elements in the tree
+
+Deleting elements in 0 milli seconds
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+6
+The tree is empty.
+
+NOTE : Option 2 for bulk insertion and performance testing
+----------------------------------------------------------
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+2
+
+What is the count of elements you want to add?
+100000
+
+100000 elements Insertion completed in 46 milliseconds
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+6
+
+................. 9812 99813 99814 99815 99816 99817 99818 99819 99820 99821 99822 99823 99824 99825 99826 99827 99828 99829 99830 99831 99832 99833 99834 99835 ................. 99923 99924 99925 99926 99927 99928 99929 99930 99931 99932 99933 99934 99935 99936 99937 99938 99939 99940 99941 99942 99943 99944 99945 99946 99947 99948 99949 99950 99951 99952 99953 99954 99955 99956 99957 99958 99959 99960 99961 99962 99963 99964 99965 99966 99967 99968 99969 99970 99971 99972 99973 99974 99975 99976 99977 99978 99979 99980 99981 99982 99983 99984 99985 99986 99987 99988 99989 99990 99991 99992 99993 99994 99995 99996 99997 99998 99999 100000 
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+5
+Enter the element num you want to search
+99965
+
+Element found : 99965 Black
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+7
+		. . .
+		. . .
+		. . .
+
+           20(Black)
+
+                 19(Black)
+
+              18(Black)
+
+                 17(Black)
+
+     16(Black)
+
+                 15(Black)
+
+              14(Black)
+
+                 13(Black)
+
+           12(Black)
+
+                 11(Black)
+
+              10(Black)
+
+                 9(Black)
+
+        8(Black)
+
+                 7(Black)
+
+              6(Black)
+
+                 5(Black)
+
+           4(Black)
+
+                 3(Black)
+
+              2(Black)
+
+                 1(Black)
+				 
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+4
+Deleting all the elements in the tree
+
+Deleting elements in 406 milli seconds
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+6
+The tree is empty.
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+NOW INCREASING RECORD COUNT FROM 1 LAKH TO 10 LAKHS
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+2
+
+What is the count of elements you want to add?
+1000000
+
+1000000 elements Insertion completed in 507 milliseconds
+
+Red-Black Tree Operations
+1. Insert
+2. Bulk Insert
+3. Delete Single Node
+4. Delete All Nodes
+5. Search
+6. InorderTraversal
+7. Display Red Black Tree Structure
+
+4
+Deleting all the elements in the tree
+
+Deleting elements in 604 milli seconds
+
+BY ABOVE PERFORMANCE TEST :
+
+CASE 1 :
+With 100,000 elements inserted in 46 milliseconds, it suggests that the average insertion time complexity is within the expected range of O(logn).
+
+After increasing the records size from 1 lakh to 7 lakhs, the elements inserted in 203 milliseconds indicates that the insertion operation is efficient
